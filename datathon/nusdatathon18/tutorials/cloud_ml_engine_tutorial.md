@@ -1,8 +1,11 @@
 # Cloud ML Engine Tutorial
 
+# # Prerequisites
+Completion of [the machine learning colab](ddsm_ml_tutorial.ipynb)
+
 [Google Cloud Machine Learning (ML) Engine](https://cloud.google.com/ml-engine/) is a managed service that enables developers and data scientists to build and bring superior machine learning models to production.
 
-In this tutorial, we are going to go further beyond what we did in [the machine learning colab](ddsm_ml_tutorial.ipynb)(please check out the colab first if you haven't), and use Cloud ML Engine to train a simple CNN with both dedicated GPU and TPU to classify CBIS-DDSM images based on breast density.
+In this tutorial, we go beyond what we did in [the machine learning colab](ddsm_ml_tutorial.ipynb) and use Cloud ML Engine to train a simple CNN with both dedicated GPU and TPU to classify CBIS-DDSM images based on breast density.
 
 ## Setup
 
