@@ -15,7 +15,7 @@ the datasets, run transformations and analyze them.
     be shared with other people for collaboration. It has the most comprehensive
     examples, including how to train machine learning models on the MIMIC demo
     dataset with [Tensorflow](https://www.tensorflow.org/).
-*   For people who has experience with R, checkout our
+*   For people who have experience with R, check out our
     [R tutorial](tutorials/bigquery_tutorial.Rmd), which provides an interactive
     interface to go through the tutorial in RStudio.
     *   Please note that a copy of this tutorial is already included in the
